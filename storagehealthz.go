@@ -1,4 +1,4 @@
-package storagehealhtz
+package storagehealthz
 
 import (
 	"context"
