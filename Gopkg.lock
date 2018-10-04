@@ -23,7 +23,7 @@
   branch = "master"
   name = "github.com/giantswarm/microstorage"
   packages = ["."]
-  revision = "15d1f4ae1c9149071d75eca931c541c8edabd24a"
+  revision = "e7d619b8ec166cd68eb4d026b68b9193bb645d8f"
 
 [[projects]]
   name = "github.com/go-kit/kit"
