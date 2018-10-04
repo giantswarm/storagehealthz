@@ -10,8 +10,3 @@ jobs:
         chmod +x ./architect
         ./architect version
     - run: ./architect build
-    - deploy:
-        command: |
-          if [ "${CIRCLE_BRANCH}" == "master" ]; then
-            ./architect deploy
-          fi
